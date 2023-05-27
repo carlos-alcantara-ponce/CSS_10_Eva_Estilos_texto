@@ -1,0 +1,29 @@
+/* * {
+    outline: 1px solid red;
+}
+ */
+h1 {
+    color: white;
+    background-color: black;
+
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    background-color: #643A6B;
+
+}
+
+h3 {
+    color: black;
+    text-align: right;
+    text-decoration: underline;
+    background-color: lightblue;
+
+}
+
+Span {
+    color: turquoise;
+}
